@@ -1,8 +1,7 @@
-
 {
     "MirrorList": [
-        "http://evo-classic-mods.googlecode.com/git/mods/",
-        "http://evo-classic-mods.googlecode.com/git/themes/"
+        "http://evo-classic-mods.googlecode.com/svn/trunk/mods/",
+        "hhttp://evo-classic-mods.googlecode.com/svn/trunk/themes/"
     ],
     "UpdateList": [
 	{
@@ -16,7 +15,7 @@
             "filename": ""
         },
 	{
-            "mod": "Classic_EVO_v*",
+            "mod": "*",
             "board": "supersonic",
             "type": "theme",
             "name": "Toggle AOSP/HTC Sense Lockscreen",
