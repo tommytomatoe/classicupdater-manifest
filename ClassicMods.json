@@ -1,0 +1,29 @@
+
+{
+    "MirrorList": [
+        "http://evo-classic-mods.googlecode.com/git/mods/",
+        "http://evo-classic-mods.googlecode.com/git/themes/"
+    ],
+    "UpdateList": [
+	{
+            "mod": "*",
+            "board": "*",
+            "type": "theme",
+            "name": "Click here to start",
+            "version": " ",
+            "description": "Classic mods by tommytomatoe",
+            "branch": "S",
+            "filename": ""
+        },
+	{
+            "mod": "Classic_EVO_v*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Toggle AOSP/HTC Sense Lockscreen",
+            "version": " ",
+            "description": "Enables AOSP Lockscreen if using Sense lockscreen.|Enables Sense Lockscreen if using AOSP Lockscreen.",
+            "branch": "S",
+            "filename": "update-aosp-lockscreen-on-off-signed.zip"
+        }
+]
+}
